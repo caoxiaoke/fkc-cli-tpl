@@ -31,3 +31,5 @@ fkc-cli
 ```javascript
 fkc init react-vw-layout demo-project
 ```
+
+<img width="505" alt="WechatIMG2483" src="https://user-images.githubusercontent.com/12712339/112713310-7da24500-8f0f-11eb-8b0d-7c64590157d5.png">
