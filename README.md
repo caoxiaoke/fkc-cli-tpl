@@ -3,4 +3,5 @@
 
 npm i fkc-cli
 
-![Uploading WX20210327-144417@2x.png…]()
+<img width="565" alt="WX20210327-144417@2x" src="https://user-images.githubusercontent.com/12712339/112712511-12567400-8f0b-11eb-9ef5-1a9a4427b2a4.png">
+
