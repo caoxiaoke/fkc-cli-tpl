@@ -33,3 +33,5 @@ fkc init react-vw-layout demo-project
 ```
 
 <img width="505" alt="WechatIMG2483" src="https://user-images.githubusercontent.com/12712339/112713310-7da24500-8f0f-11eb-8b0d-7c64590157d5.png">
+
+<img width="658" alt="WX20210327-151837@2x" src="https://user-images.githubusercontent.com/12712339/112713407-c35f0d80-8f0f-11eb-8c09-a897e8692291.png">
