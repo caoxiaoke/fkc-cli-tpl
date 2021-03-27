@@ -18,6 +18,7 @@ fkc
 [![fkc-cli](https://user-images.githubusercontent.com/12712339/112712511-12567400-8f0b-11eb-9ef5-1a9a4427b2a4.png "fkc-cli")](https://user-images.githubusercontent.com/12712339/112712511-12567400-8f0b-11eb-9ef5-1a9a4427b2a4.png "fkc-cli")
 
 <br/>
+
 **查看所有模版**
 
 ```javascript
@@ -44,7 +45,7 @@ fkc init react-vw-layout demo-project
 
 **fkc-cli 脚手架参考**
 
-**脚手架的作用 **
+**脚手架的作用**
 
 1. 减少重复性的工作，不需要复制其他项目再删除无关代码，或者从零创建一个项目和文件。 
 2. 可以根据交互动态生成项目结构和配置文件。 
@@ -58,7 +59,7 @@ fkc init react-vw-layout demo-project
 3. 经过模版引擎渲染定制项目模版 。
 4. 模版变动，只需更新模版即可，不需要用户更新脚手架 。
 
-**设计模块知识点 **
+**设计模块知识点**
 
 1. commander.js命令行工具 。
 2. download-git-repo: 用来下载远程模板 。
