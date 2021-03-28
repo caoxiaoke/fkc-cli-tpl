@@ -47,9 +47,9 @@ fkc init react-vw-layout demo-project
 
 **脚手架的作用**
 
-1. 减少重复性的工作，不需要复制其他项目再删除无关代码，或者从零创建一个项目和文件。 
-2. 可以根据交互动态生成项目结构和配置文件。 
-3. 多人协作更为方便，不需要把文件传来传去。 
+1. 减少重复性的工作，不需要复制其他项目再删除无关代码，或者从零创建一个项目和文件。
+2. 可以根据交互动态生成项目结构和配置文件。
+3. 多人协作更为方便，不需要把文件传来传去。
 
 
 **参考思路**
@@ -69,4 +69,21 @@ fkc init react-vw-layout demo-project
 6. log-symbols: 显示出 √ 或 × 等的图标 。
 
 <br/>
-来源：https://blog.csdn.net/sinat_17775997/article/details/106679808
+
+**参考文档**
+
+[Node.js 命令行程序开发教程](http:/https://www.kancloud.cn/kancloud/command-line-with-node/48657/ "Node.js 命令行程序开发教程")
+
+[download-git-repo包从远程(GitHub, GitLab, Bitbucket)拉取文件到本地](https://www.npmjs.com/package/download-git-repo "download-git-repo包从远程(GitHub, GitLab, Bitbucket)拉取文件到本地")
+
+[commander.js包 在命令行中显示](https://github.com/tj/commander.js/blob/master/Readme_zh-CN.md "commander.js包 在命令行中显示")
+
+[Ora 在控制台显示当前加载状态的](https://github.com/sindresorhus/ora "Ora 在控制台显示当前加载状态的")
+
+[shelljs 模块重新包装了 child_process，调用系统命令](https://www.npmjs.com/package/shelljs "shelljs 模块重新包装了 child_process，调用系统命令")
+
+[yargs 获取命令行参数](https://www.kancloud.cn/kancloud/command-line-with-node/48652 "yargs 获取命令行参数")
+
+[chalk 控制控制台输出文字的颜色](https://github.com/chalk/chalk "chalk 控制控制台输出文字的颜色")
+
+[搭一个属于自己的脚手架](https://blog.csdn.net/sinat_17775997/article/details/106679808 "搭一个属于自己的脚手架")
