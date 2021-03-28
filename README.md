@@ -72,7 +72,7 @@ fkc init react-vw-layout demo-project
 
 **参考文档**
 
-[Node.js 命令行程序开发教程](http:/https://www.kancloud.cn/kancloud/command-line-with-node/48657/ "Node.js 命令行程序开发教程")
+[Node.js 命令行程序开发教程](https://www.kancloud.cn/kancloud/command-line-with-node/48657 "Node.js 命令行程序开发教程")
 
 [download-git-repo包从远程(GitHub, GitLab, Bitbucket)拉取文件到本地](https://www.npmjs.com/package/download-git-repo "download-git-repo包从远程(GitHub, GitLab, Bitbucket)拉取文件到本地")
 
